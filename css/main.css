@@ -1,0 +1,14 @@
+nav {
+	height: 100px;
+	width: 100%;
+	background-color: #E84396;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 40px;
+}
+
+h1 {
+	text-align: center;
+}
